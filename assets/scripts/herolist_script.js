@@ -1,3 +1,5 @@
+optionOne = document.querySelector("#option-one");
+optionTwo = document.querySelector("#option-two");
 let heroList = [
 
     [1, "A-Bomb"],
