@@ -737,7 +737,7 @@ let heroList = [
 
 
 for (let i = 0; i < heroList.length; i++) {
-    console.log(heroList[i][1])
+    // console.log(heroList[i][1])
     let option = document.createElement('option');
     option.textContent = heroList[i][1];
     option.value = heroList[i][1];
@@ -751,10 +751,10 @@ for (let i = 0; i < heroList.length; i++) {
 function heroSelect() {
     let hero1 = document.getElementById("heros").value;
     let hero2 = document.getElementById("heros2").value;
-    console.log(hero1, hero2)
+    // console.log(hero1, hero2)
     if (hero1 !== "" && hero2 !== "") {
         document.getElementById("fight").textContent = "Fight!";
-        // Add the rest of eventlistener functionality
+        // Add more eventlistener functionality
 
     }
 }
