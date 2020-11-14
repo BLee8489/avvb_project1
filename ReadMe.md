@@ -41,7 +41,9 @@ Alternatively:
 * Primary Usage: Choose two fighters and compare their power levels to determine who is superior!
 * Seen below -
 
-<!-- Screenshots here. -->
+![project_mobile_1](https://user-images.githubusercontent.com/70674522/99157581-04503700-267f-11eb-8995-a05f0bd80fab.PNG)
+![project_web_1](https://user-images.githubusercontent.com/70674522/99157582-04e8cd80-267f-11eb-99c3-d7fcd09451fe.PNG)
+![project_web_2](https://user-images.githubusercontent.com/70674522/99157583-0619fa80-267f-11eb-966b-f4c1272e6eb7.PNG)
 
 **Credits** 
 
